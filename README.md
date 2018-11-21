@@ -10,6 +10,15 @@
 ---
 
 ## November 20th, 2018
+
 * Started programming log, made git repo
+* More Udemy Python learning (on section 6)
+* Read first 5 chapters of "Cracking the Coding Interview" book
+* More Python practice
+* Read some tech news
+
+---
+
+## November 21st, 2018
 
 ---
