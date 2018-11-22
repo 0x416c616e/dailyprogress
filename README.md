@@ -21,4 +21,10 @@
 
 ## November 21st, 2018
 
+* More Python learning
+
 ---
+
+## November 22nd, 2018
+
+* Happy Thanksgiving!
