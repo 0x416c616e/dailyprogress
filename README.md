@@ -28,3 +28,4 @@
 ## November 22nd, 2018
 
 * Happy Thanksgiving!
+* No programming for today
