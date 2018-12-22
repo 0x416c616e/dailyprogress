@@ -37,3 +37,6 @@
 ## December 21st, 2018
 
 * Worked on EZcrypt (encryption/decryption tool written in Java)
+* Registered domain name: alans100daysofcode.com (I will set it up later)
+* Looked up basic info about Github Pages and Jekyll, which I will use for my new site -- at least for now. Later, I plan on finishing my static site generator project, either in Python or Java.
+* Got back into doing this daily progress log
