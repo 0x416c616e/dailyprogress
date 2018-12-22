@@ -41,3 +41,10 @@
 * Looked up basic info about Github Pages and Jekyll, which I will use for my new site -- at least for now. Later, I plan on finishing my static site generator project, either in Python or Java.
 * Got back into doing this daily progress log
 * Decided that I should learn CI at some point, maybe Travis CI?
+
+## December 22nd, 2018
+
+* Made plans for scheduling in the months ahead
+* Set up desk, desktop, and chair -- moving in more to new place
+* Set up Github Pages for alans100daysofcode.com
+* Made alans100daysofcode github repo
