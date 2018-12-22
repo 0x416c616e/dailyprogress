@@ -29,3 +29,11 @@
 
 * Happy Thanksgiving!
 * No programming for today
+
+## Late November and December
+
+* Moved back to Chicagoland
+
+## December 21st, 2018
+
+* Worked on EZcrypt (encryption/decryption tool written in Java)
