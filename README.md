@@ -40,3 +40,4 @@
 * Registered domain name: alans100daysofcode.com (I will set it up later)
 * Looked up basic info about Github Pages and Jekyll, which I will use for my new site -- at least for now. Later, I plan on finishing my static site generator project, either in Python or Java.
 * Got back into doing this daily progress log
+* Decided that I should learn CI at some point, maybe Travis CI?
