@@ -46,5 +46,4 @@
 
 * Made plans for scheduling in the months ahead
 * Set up desk, desktop, and chair -- moving in more to new place
-* Set up Github Pages for alans100daysofcode.com
 * Made alans100daysofcode github repo
