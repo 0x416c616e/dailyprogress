@@ -55,5 +55,6 @@
 * Planning on reinstalling macOS to sort out Ruby issues (and upgrade to Mojave)
 * When I looked at guides that helped other people, none of it worked for me. It was a bunch of "works on my machine" type messages. This is why I should learn about containers. Docker and Kubernetes can help eliminate these kinds of problems. Very frustrating issues. 
 * Wasted time with rbenv and rvm, didn't work for jekyll
+* Learned basic information about continuous integration, branching and merging, ticketing systems, windows server, and other IT stuff -- taking a break from the project I attempted to work on today due to the errors I encountered
 
 ## December 24th, 2018
