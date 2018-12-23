@@ -47,3 +47,13 @@
 * Made plans for scheduling in the months ahead
 * Set up desk, desktop, and chair -- moving in more to new place
 * Made alans100daysofcode github repo
+
+## December 23rd, 2018
+
+* Learned more about Github Pages and Jekyll
+* Encountered tons of errors with Jekyll and my repo and site
+* Planning on reinstalling macOS to sort out Ruby issues (and upgrade to Mojave)
+* When I looked at guides that helped other people, none of it worked for me. It was a bunch of "works on my machine" type messages. This is why I should learn about containers. Docker and Kubernetes can help eliminate these kinds of problems. Very frustrating issues. 
+* Wasted time with rbenv and rvm, didn't work for jekyll
+
+## December 24th, 2018
