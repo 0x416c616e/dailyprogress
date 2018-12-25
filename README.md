@@ -30,9 +30,13 @@
 * Happy Thanksgiving!
 * No programming for today
 
+---
+
 ## Late November and December
 
 * Moved back to Chicagoland
+
+---
 
 ## December 21st, 2018
 
@@ -42,11 +46,15 @@
 * Got back into doing this daily progress log
 * Decided that I should learn CI at some point, maybe Travis CI?
 
+---
+
 ## December 22nd, 2018
 
 * Made plans for scheduling in the months ahead
 * Set up desk, desktop, and chair -- moving in more to new place
 * Made alans100daysofcode github repo
+
+---
 
 ## December 23rd, 2018
 
@@ -59,4 +67,9 @@
 * Factory reset Kindle (for reading programming-related books)
 * Backed up all data on MacBook to external hard drive (in preparation for doing a clean installation of macOS Mojave later)
 
+---
+
 ## December 24th, 2018
+
+* Finishing up computer stuff
+* Installed new hardware in desktop
