@@ -85,4 +85,6 @@
 * Finished new hardware changes to desktop
 * Set up git again on laptop and desktop
 * Set up MinGW, gcc, g++, msys, make, etc. on Windows and changed the path variable -- not as simple as macOS, but I did it
-
+* Restored data from backup (macOS Time Machine)
+* Installed Jekyll on Windows (among other programming stuff)
+* Learning more about merge conflict because I'm using a desktop and laptop, so I have to git pull before doing git commit or git push
