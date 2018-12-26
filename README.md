@@ -71,5 +71,16 @@
 
 ## December 24th, 2018
 
-* Finishing up computer stuff
+* More computer stuff
 * Installed new hardware in desktop
+
+---
+
+## December 25th, 2018
+
+* Merry Christmas!
+* Reinstalled macOS Mojave on MacBook
+* Fixed Jekyll issue on MacBook
+* Installed lots of programs on Windows 10 desktop
+* Finished new hardware changes to desktop
+
