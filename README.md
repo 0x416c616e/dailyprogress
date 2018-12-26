@@ -84,4 +84,5 @@
 * Installed lots of programs on Windows 10 desktop
 * Finished new hardware changes to desktop
 * Set up git again on laptop and desktop
+* Set up MinGW, gcc, g++, msys, make, etc. on Windows and changed the path variable -- not as simple as macOS, but I did it
 
