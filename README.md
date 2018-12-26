@@ -83,4 +83,5 @@
 * Fixed Jekyll issue on MacBook
 * Installed lots of programs on Windows 10 desktop
 * Finished new hardware changes to desktop
+* Set up git again on laptop and desktop
 
