@@ -98,3 +98,9 @@
 * Learned about YAML
 * Added HTTPS to alans100daysofcode.com website
 
+---
+
+## December 27th, 2018
+
+* Started adding more to my Jekyll site
+
