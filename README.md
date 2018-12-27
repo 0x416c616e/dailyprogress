@@ -88,3 +88,13 @@
 * Restored data from backup (macOS Time Machine)
 * Installed Jekyll on Windows (among other programming stuff)
 * Learning more about merge conflict because I'm using a desktop and laptop, so I have to git pull before doing git commit or git push
+
+---
+
+## December 26th, 2018
+
+* Made Jekyll website (just basic from now)
+* Learned more about Jekyll
+* Learned about YAML
+* Added HTTPS to alans100daysofcode.com website
+
