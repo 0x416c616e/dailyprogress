@@ -109,6 +109,14 @@
 * Learned more about JDK and JavaFX installation stuff
 * Changed ~/.bash_profile for Java stuff
 * Worked on Jekyll website
+* Wrote first alans100daysofcode.com blog post
+
+---
+
+## December 28th, 2018
+
+* Worked more on EZcrypt
+
 
 
 
