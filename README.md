@@ -116,9 +116,9 @@
 ## December 28th, 2018
 
 * Worked more on EZcrypt
-
-
-
+* Started adding issues to my repos (for to-do stuff)
+* Updated daily log
+* Finished most of EZcrypt, works quite well now!
 
 
 
