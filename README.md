@@ -103,4 +103,14 @@
 ## December 27th, 2018
 
 * Started adding more to my Jekyll site
+* Finished reading "The Self-Taught Programmer: The Definitive Guide to Programming Professionally"
+* Fixed IntelliJ issue with EZcrypt (set up JDK 8 because Java 11 doesn't include JavaFX in it anymore)
+* Worked on EZcrypt
+* Learned more about JDK and JavaFX installation stuff
+* Changed ~/.bash_profile for Java stuff
+* Worked on Jekyll website
+
+
+
+
 
