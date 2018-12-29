@@ -121,4 +121,9 @@
 * Finished most of EZcrypt, works quite well now!
 * Watched part of Udemy course about git
 
+---
+
+## December 29th, 2018
+
+* Updated alans100daysofcode.com
 
