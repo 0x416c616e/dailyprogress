@@ -126,4 +126,20 @@
 ## December 29th, 2018
 
 * Updated alans100daysofcode.com
+* Decided on next project
+* Showed someone my EZcrypt app
 
+---
+
+## December 30th, 2018
+
+* More planning/markups/decision making for next project (static site generator)
+
+---
+
+## December 31st, 2018
+
+* Updated log and alans100daysofcode.com website
+* Wrote about malware because someone I know had malware on their computer
+* Made repo for staticsitegenerator
+* More Python learning (static site generator will be Python and Qt)
