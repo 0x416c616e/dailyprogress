@@ -143,3 +143,8 @@
 * Wrote about malware because someone I know had malware on their computer
 * Made repo for staticsitegenerator
 * More Python learning (static site generator will be Python and Qt)
+* Happy New Year!
+
+
+
+
