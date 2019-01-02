@@ -142,9 +142,15 @@
 * Updated log and alans100daysofcode.com website
 * Wrote about malware because someone I know had malware on their computer
 * Made repo for staticsitegenerator
-* More Python learning (static site generator will be Python and Qt)
+* More Python learning (static site  generator will be Python and Qt)
 * Happy New Year!
 
+## January 1st, 2019
 
+* Happy New Year!
+* Updated website and log
+* Ordered parts to build a hypervisor for local web server purposes (among other things)
+* More planning for the static site generator program requirements
+* More learning about Python and git using Udemy
 
 
