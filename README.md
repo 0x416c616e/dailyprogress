@@ -145,6 +145,8 @@
 * More Python learning (static site  generator will be Python and Qt)
 * Happy New Year!
 
+---
+
 ## January 1st, 2019
 
 * Happy New Year!
@@ -152,5 +154,16 @@
 * Ordered parts to build a hypervisor for local web server purposes (among other things)
 * More planning for the static site generator program requirements
 * More learning about Python and git using Udemy
+
+---
+
+## January 2nd, 2019
+
+* Built a hypervisor
+* Installed ESXi on it
+* Will be using this for my Python static site generator (I will use a LAMP VM on ESXi)
+* Updated log and website
+
+---
 
 
