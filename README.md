@@ -173,6 +173,7 @@
 * Getting more used to PyCharm instead of other editors I've used before
 * Working on Python and git learning BEFORE I jump right into the static site generator projcet
 * Updated log and website, made articles about building computers, hypervisor stuff, Python, and git
+* Made new repo for git learning, made cheat sheet for important git commands
 
 ---
 
