@@ -166,4 +166,15 @@
 
 ---
 
+## January 3rd, 2019
+
+* Finished setting up ESXi hypervisor -- no VMs just yet, just testing stability
+* Refresher course on Python
+* Getting more used to PyCharm instead of other editors I've used before
+* Working on Python and git learning BEFORE I jump right into the static site generator projcet
+* Updated log and website, made articles about building computers, hypervisor stuff, Python, and git
+
+---
+
+
 
