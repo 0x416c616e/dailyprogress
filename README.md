@@ -175,8 +175,11 @@
 * Updated log and website, made articles about building computers, hypervisor stuff, Python, and git
 * Made new repo for git learning, made cheat sheet for important git commands
 * Learned new git commands and files, like checkout, HEAD, gitignore, and so on
+* Finished 1st two chapters of Python Crash Course, including the progamming exercises
+* Started reading Coders at Work: Reflections on the Craft of Programming
+
 
 ---
 
-
+## January 4th, 2019
 
