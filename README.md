@@ -183,3 +183,26 @@
 
 ## January 4th, 2019
 
+* Made plans
+* Updated site
+* More learning
+
+---
+
+## January 5th, 2019
+
+* Uneventful for once
+
+---
+
+## January 6th, 2019
+
+* Set up Raspberry Pi, used it for wake-on-lan, will eventually schedule this with cron and a shell script
+* Lots of tech maintenance on my computers and the devices of my relatives
+* Helped a relative learn some tech stuff
+* Plans for more tech projects in the future, such as osTicket, Nagios, SnortIDS, etc.
+* Updated website
+* Updated log
+* More Udemy learning
+
+---
