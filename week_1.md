@@ -69,4 +69,6 @@
 * Watched some tech-related videos about Suricata, Kubernetes, Docker, etc. (future projects, not for today)
 * More Udemy learning for git and Python
 * Python Crash Course learning
-
+* Set up Bitnami LAMP VM in ESXi
+* Attempted to install osTicket in LAMP VM, but got an error
+* Made an osTicket forum account so I can ask for help, but my account hasn't been approved just yet
