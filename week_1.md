@@ -68,4 +68,5 @@
 * Updated log and website
 * Watched some tech-related videos about Suricata, Kubernetes, Docker, etc. (future projects, not for today)
 * More Udemy learning for git and Python
+* Python Crash Course learning
 
