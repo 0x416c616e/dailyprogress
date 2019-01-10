@@ -33,3 +33,7 @@
 * Set up Bitnami LAMP 5.6 VM because apparently osticket isn't compatible with PHP 7.1, which is what my previous VM's LAMP stack had
 * Sort of got osTicket up and running, though it has issues
 * More Python Crash Course learning
+* More GitHub Ultimate learning and updating my gitUdemyLearning repo
+
+
+
