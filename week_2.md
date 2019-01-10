@@ -34,6 +34,17 @@
 * Sort of got osTicket up and running, though it has issues
 * More Python Crash Course learning
 * More GitHub Ultimate learning and updating my gitUdemyLearning repo
+* Fixed computer power supply issue by adding extra fans
+* Set up KVM for computers
+* Ordered fan resistor cables for my PSU solution
+
+---
+
+## January 10th 2019
+
+* More Python learning
+* updated log
+* Updated website, going over not only stuff I did today but also future goals
 
 
 
