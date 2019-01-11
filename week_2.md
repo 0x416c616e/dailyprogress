@@ -45,6 +45,6 @@
 * More Python learning
 * updated log
 * Updated website, going over not only stuff I did today but also future goals
-
+* Lots of healthcare stuff, takes precedence over coding
 
 
