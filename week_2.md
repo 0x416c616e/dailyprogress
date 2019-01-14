@@ -47,4 +47,12 @@
 * Updated website, going over not only stuff I did today but also future goals
 * Lots of healthcare stuff, takes precedence over coding
 
+---
+
+## January 11th-13th, 2018
+
+* Sick and resting
+
+---
+
 
