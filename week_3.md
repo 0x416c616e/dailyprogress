@@ -35,3 +35,11 @@
 * Got car fixed
 * Updated log and website
 * Learned more about Python file IO
+
+---
+
+## January 17th, 2019
+
+* Added lots of documentation and planning/software engineering/braintstorming for Static Site Generator
+* Created site project skeleton layout to show what it will be like when the generator is more complete (far from finished right now but I have some dummy/mockup stuff to demonstrate the eventual implementations that aren't quite there yet)
+
