@@ -9,7 +9,11 @@ Also be sure to check out [my corresponding website](http://alans100daysofcode.c
 ---
 
 ## Weeky log files
+
 [Week 1](https://github.com/0x416c616e/dailyprogress/blob/master/week_1.md)
+
 [Week 2](https://github.com/0x416c616e/dailyprogress/blob/master/week_2.md)
+
 [Week 3](https://github.com/0x416c616e/dailyprogress/blob/master/week_3.md)
 
+---
