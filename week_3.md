@@ -31,3 +31,7 @@
 
 ## January 16th, 2019
 
+* Worked on Static Site Generator -- added documentation, project structure, etc.
+* Got car fixed
+* Updated log and website
+* Learned more about Python file IO
