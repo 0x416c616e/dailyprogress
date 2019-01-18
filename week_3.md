@@ -42,4 +42,13 @@
 
 * Added lots of documentation and planning/software engineering/braintstorming for Static Site Generator
 * Created site project skeleton layout to show what it will be like when the generator is more complete (far from finished right now but I have some dummy/mockup stuff to demonstrate the eventual implementations that aren't quite there yet)
+* Had vim glitches in cmder, so I switched to ConEmu intead -- better than git bash, powershell, or the command prompt.
+* Learned about JSON schema enforcement, pip package manager, JSON schemas in general, and the pip python jsonschema package
+
+
+---
+
+## January 18th, 2019
+
+
 
