@@ -58,4 +58,10 @@
 * Learned more about git features like branching, merging, forking, and pull requests
 * Learned more about APIs
 * Came up with an idea for a WebExtension project: typo domain blocker, uses pattern matching to block typos that are one character off from an alexa top 500 domain (protect against typosquatting and phishing/malware)
+* Did python algorithm practice interview question: pair sum problem (list of numbers, see if pairs of numbers in list add up to certain number, we'll call k)
 
+## January 19th, 2018
+* Learned more about Python, such as global keyword, logging, reviewed classes, argparse, etc.
+* SQL chapter about WHERE clause
+* Worked more on SSG project
+	* Did JSON parsing and find-and-replace test as a mockup for my later plans for adding the content to the page templates (my own pseudo-MVC type thing, but not 100% the same)
