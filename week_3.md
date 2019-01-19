@@ -50,5 +50,12 @@
 
 ## January 18th, 2019
 
-
+* Watched a lot of videos about Python and programming concepts
+* Intsalled Docker in a VM
+* Inquired about a Java 8 vs. Java 11 issue, learned about Maven and OpenJFX
+* Did another chapter in SQL in 10 Minutes
+* Did some Python programming for SSG
+* Learned more about git features like branching, merging, forking, and pull requests
+* Learned more about APIs
+* Came up with an idea for a WebExtension project: typo domain blocker, uses pattern matching to block typos that are one character off from an alexa top 500 domain (protect against typosquatting and phishing/malware)
 
