@@ -65,3 +65,11 @@
 * SQL chapter about WHERE clause
 * Worked more on SSG project
 	* Did JSON parsing and find-and-replace test as a mockup for my later plans for adding the content to the page templates (my own pseudo-MVC type thing, but not 100% the same)
+* Updated alans100daysofcode.com and log
+* Looked up random non-Python programming concepts
+
+---
+
+## January 20th, 2018
+
+* Last day of this week's file
