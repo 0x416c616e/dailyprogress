@@ -73,3 +73,8 @@
 ## January 20th, 2018
 
 * Last day of this week's file
+* Didn't end up finishing the JSON thing yesterday so I am doing more of it today
+* Successfully did the first mini-test of getting input and replacing what the user enters, but now I need to change it and make it do JSON, then I also need to do the pagination algo stuff and also I have yet to do the article module which will get user input and then write json, need to modularize stuff etc. I have been doing a lot of Python learning, and thinking about how to break the SSG stuff into smaller problems, and how to algorithmically solve all of it, and also watched various tutorials online. But lately I haven't been doing a ton of coding on it. I needed to figure out this stuff first.
+* Learned random stuff related to programming
+* Learned singleton design pattern
+* Updated website and log, had to make new week markdown
