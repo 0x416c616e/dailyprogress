@@ -25,3 +25,11 @@
 ## January 23rd, 2019
 
 * Healthcare-related stuff
+
+---
+
+## January 24th, 2019
+
+* Wrote Python SSG initial setup module
+* More learning about cloud and infrastructure
+* Updated site and blog
