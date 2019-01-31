@@ -8,7 +8,7 @@ Also be sure to check out [my corresponding website](http://alans100daysofcode.c
 
 ---
 
-## Weeky log files
+## Weekly log files
 
 [Week 1](https://github.com/0x416c616e/dailyprogress/blob/master/week_1.md)
 
