@@ -17,3 +17,16 @@
 - Learned more about microphones, earbuds, binaural audio, headphone jacks, splitters, 3.5mm connectors, etc. for an upcoming project
 
 ---
+
+## January 31st, 2019
+
+- Worked on static site generator
+- Learned about GPG/PGP
+- Set up GPG4win and Keybase
+- Learned about YAML
+- Learned more about Travis CI
+- Did a lot of writing
+- Practiced code reviews and pull requests
+- Started to make settings menu in SSG
+
+---
