@@ -11,7 +11,9 @@
 
 - Went to downtown Chicago
 - Learned more about stacks and linked lists
-- Worked on CS homework
-- Listened to a podcast about GraphQL
+- Studied for discrete structures class
+- Worked on CS homework for data structures class (stack ADT implementation)
+- Listened to a podcast episode about GraphQL and another one about exception handling
+- Scheduled CS advising appointment
 
 
