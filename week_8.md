@@ -15,5 +15,7 @@
 - Worked on CS homework for data structures class (stack ADT implementation)
 - Listened to a podcast episode about GraphQL and another one about exception handling
 - Scheduled CS advising appointment
+- Wrote ideas about an independent study about malware that I might do in a future semester (if it gets approved by the CS department)
+
 
 
