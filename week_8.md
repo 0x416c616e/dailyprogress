@@ -1,21 +1,15 @@
-# Progress notes for the week on Sunday the 22nd
+# Daily Programming Log: Week 8
 
-## 22nd
+---
 
-- Discrete structures homework
-- Notes
-- Learned more about data structures
-- More college-related learning rather than just independent learning stuff at the moment
+## November 10th, 2019
 
-# 9/26
+I haven't been great with updating this repo, but here's what I've been doing today and in the past few weeks:
 
-- Went to downtown Chicago
-- Learned more about stacks and linked lists
-- Studied for discrete structures class
-- Worked on CS homework for data structures class (stack ADT implementation)
-- Listened to a podcast episode about GraphQL and another one about exception handling
-- Scheduled CS advising appointment
-- Wrote ideas about an independent study about malware that I might do in a future semester (if it gets approved by the CS department)
-
+- Finished all chapters in my book except for the C++, back-end web development, and summary chapters
+- Learned more about C++
+- Created the structure for the back-end web development chapter, which focuses on MySQL, Apache, and PHP
+- Wrote most of the SQL section
+- Made a SQL command repo that corresponds with a SQL demonstration in the book
 
 
