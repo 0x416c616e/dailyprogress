@@ -12,4 +12,6 @@ I haven't been great with updating this repo, but here's what I've been doing to
 - Wrote most of the SQL section
 - Made a SQL command repo that corresponds with a SQL demonstration in the book
 
+## November 13th, 2019
 
+- Continuing to re-read my book and edit it again
