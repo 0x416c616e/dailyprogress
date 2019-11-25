@@ -29,5 +29,22 @@ I haven't been great with updating this repo, but here's what I've been doing to
 - Remaining C++ sections: file IO and prime number project
 - Remaining chapters: a couple sections in the C++ chapter, the entire Apache/PHP chapter, and the summary chapter
 
+## November 25th, 2019
+
+- Finished (this time for real) the pointers and memory section in the C++ chapter
+- Finished the input/output section for C++
+- Started the prime number section
+- Made git repo for prime gap finder
+- Learned a lot about prime numbers, prime gaps, prime gap distribution, gnuplot, etc.
+- Taught myself how to use gnuplot
+- Started using Eclipse instead of CLion for IntelliJ
+- Using vim a lot too for quick stuff
+- New C++ chapter capstone project involves C++, Bash, gnuplot script, etc.
+- PrimeFinder project uses .dat files to store data because gnuplot dislikes .csv for some reason
+- PrimeFinder can find primes, log primes and prime gaps, make checkpoints to restore from if it gets quit unexpectedly, graph as many numbers as you want, partitions data into multiple files of a manageable size, logs distribution of primes, and automatically generates graph images
+- Haven't finished the writing portion of the C++ prime number project section, but the coding is mostly done
+- Only remaining parts of book are the entire Apache/PHP chapter and some rewriting/adding on to the wrap-up chapter
+- Came up with a list of stuff to add to the advanced stuff or possibly the appendix for a list of topics to look up after you've finished reading the book
+
 
 
