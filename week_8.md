@@ -46,5 +46,10 @@ I haven't been great with updating this repo, but here's what I've been doing to
 - Only remaining parts of book are the entire Apache/PHP chapter and some rewriting/adding on to the wrap-up chapter
 - Came up with a list of stuff to add to the advanced stuff or possibly the appendix for a list of topics to look up after you've finished reading the book
 
+## November 27th, 2019
+
+- Finished prime finder program -- very complicated and many lines of code
+- Finished simplified prime finder program (for book)
+- Finished C++ chapter in book
 
 
