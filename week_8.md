@@ -51,5 +51,6 @@ I haven't been great with updating this repo, but here's what I've been doing to
 - Finished prime finder program -- very complicated and many lines of code
 - Finished simplified prime finder program (for book)
 - Finished C++ chapter in book
+- Added section 13.5 to book, which covers introductory cloud computing concepts
 
 
