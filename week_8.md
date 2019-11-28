@@ -53,4 +53,12 @@ I haven't been great with updating this repo, but here's what I've been doing to
 - Finished C++ chapter in book
 - Added section 13.5 to book, which covers introductory cloud computing concepts
 
+## November 28th, 2019
+
+- Finished wrap-up chapter in book
+- Started on the PHP chapter, which is the final chapter in the book
+- Learned more about Eclipse and workspaces
+- Set up my weather bot again
+- 
+
 
