@@ -7,5 +7,7 @@
 - Updated progress repo
 - Completely done with everything in the book aside from the Apache/PHP chapter
 - Twitter weather bot is working again
+- Started using LeetCode
+- Started using Project Euler
 
 
