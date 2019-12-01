@@ -18,5 +18,9 @@
 - Did a LeetCode problem
 - Learned more about PHP and Ajax
 - Continued reading PHP book
+- Started Advent of Code and did 2 problems for it
+- Made some GitHub releases for projects I've made
+
+
 
 
