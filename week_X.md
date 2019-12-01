@@ -10,4 +10,13 @@
 - Started using LeetCode
 - Started using Project Euler
 
+## December 1st, 2019
+
+- Updated daily log
+- Updated Jekyll repo/site
+- Did a Project Euler program
+- Did a LeetCode problem
+- Learned more about PHP and Ajax
+- Continued reading PHP book
+
 
