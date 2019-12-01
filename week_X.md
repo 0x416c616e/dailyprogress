@@ -20,7 +20,7 @@
 - Continued reading PHP book
 - Started Advent of Code and did 2 problems for it
 - Made some GitHub releases for projects I've made
-
-
+- Learned more about pull requests, organizations, and transferring ownership of repos on GitHub
+- Learned about labels for beginner-oriented contributions
 
 
