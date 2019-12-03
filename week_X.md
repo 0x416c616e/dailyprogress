@@ -33,3 +33,8 @@
 - Made to-do list
 - Learned more about PHP
 
+## December 3rd, 2019
+
+- Read a book about AWS
+
+
