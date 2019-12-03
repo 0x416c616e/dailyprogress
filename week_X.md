@@ -23,4 +23,13 @@
 - Learned more about pull requests, organizations, and transferring ownership of repos on GitHub
 - Learned about labels for beginner-oriented contributions
 
+## December 2nd, 2019
+
+- Learned more about AWS
+- Registered domain name for my spring 2020 message board project
+- Messed around with AWS Elastic Beanstalk a little
+- Decided that my next project will be in EC2, not Beanstalk
+- updated log
+- Made to-do list
+- Learned more about PHP
 
