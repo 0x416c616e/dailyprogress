@@ -37,4 +37,10 @@
 
 - Read a book about AWS
 
+## December 22nd, 2019
+
+- Since last update: read many books on PHP, HTTP, Apache, etc.
+- Finished up all the non-PHP chapter stuff
+- Started organizing the PHP chapter
+
 
