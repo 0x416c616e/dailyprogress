@@ -43,4 +43,11 @@
 - Finished up all the non-PHP chapter stuff
 - Started organizing the PHP chapter
 
+## December 26th, 2019
+
+- Made a security chapter
+- Wrote about malware
+- Wrote about a lot of security concepts, mostly web security
+- Made a PHP web shell
+
 
