@@ -50,4 +50,10 @@
 - Wrote about a lot of security concepts, mostly web security
 - Made a PHP web shell
 
+## December 27th, 2019
+
+- Wrote more in the security chapter
+- Decided to make a task scheduling section in the Bash chapter
+- Converted weather bot to crontab instead of using sleep()
+
 
