@@ -56,4 +56,11 @@
 - Decided to make a task scheduling section in the Bash chapter
 - Converted weather bot to crontab instead of using sleep()
 
+## December 30th, 2019
+
+- Removed a lot of stuff from the security chapter, because it's too long for the book
+- Restructuring the security chapter
+- Made repo for additional security writing
+- Decided to eventually take out appendices from book in order to get the length down
+
 
