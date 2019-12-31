@@ -63,4 +63,8 @@
 - Made repo for additional security writing
 - Decided to eventually take out appendices from book in order to get the length down
 
+## December 31st, 2019
+
+- Converted extra security writing to a security book repo
+- Finished security chapter in software development book
 
