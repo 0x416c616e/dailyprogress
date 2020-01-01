@@ -68,3 +68,10 @@
 - Converted extra security writing to a security book repo
 - Finished security chapter in software development book
 
+## January 1st, 2020
+
+- Added info about Windows startup stuff to task scheduling section and GitHub repo about security
+- Added info about keyboard emulators to GitHub security repo
+- Finished security chapter in software development book
+
+
