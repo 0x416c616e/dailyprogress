@@ -73,5 +73,7 @@
 - Added info about Windows startup stuff to task scheduling section and GitHub repo about security
 - Added info about keyboard emulators to GitHub security repo
 - Finished security chapter in software development book
-
+- Re-read security chapter for final editing/review
+- Planned trip to St. Louis
+- Started task scheduling section in command line chapter in book (now includes info for macOS, Linux, and Windows task scheduling)
 
