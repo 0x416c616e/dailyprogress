@@ -77,3 +77,8 @@
 - Planned trip to St. Louis
 - Started task scheduling section in command line chapter in book (now includes info for macOS, Linux, and Windows task scheduling)
 
+## January 4th, 2020
+
+- Came back from St. Louis
+- Starting classes again soon at NEIU in Chicago
+
