@@ -82,3 +82,15 @@
 - Came back from St. Louis
 - Starting classes again soon at NEIU in Chicago
 
+## January 6th, 2020
+
+- Started classes
+- Got e-textbooks
+- Made private GitHub repos for my class notes
+- Went back to library
+- Started using parking app again for NEIU
+- Starting spring classes
+
+
+
+
