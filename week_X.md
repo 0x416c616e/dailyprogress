@@ -91,6 +91,11 @@
 - Started using parking app again for NEIU
 - Starting spring classes
 
+## January 8th, 2020
+
+- Went to NEIU
+- Read about databases
+- Did reading/homework
 
 
 
