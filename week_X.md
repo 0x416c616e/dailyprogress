@@ -97,5 +97,13 @@
 - Read about databases
 - Did reading/homework
 
+## January 9th, 2020
+
+- Went to NEIU library
+- Studying and homework related to databases
+- Getting back into my study routine of writing physical notes, then typing them up in a word document, and making Anki flash cards
+- Came up with an idea for a LAMP project to make: a to-do list app
+
+
 
 
