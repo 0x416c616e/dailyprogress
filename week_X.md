@@ -109,6 +109,11 @@
 - Went to NEIU library
 - Studying
 - Converted notes to flash cards
+- Put Anki decks into Anki repo
+- Reviewed CS315 Anki flash cards
+- Made web shells that are hidden in image files (for use against sites with file upload vulnerabilities)
+- Updated PHP web shell repo
+- Started working on LAMP to-do list app
 
 
 
