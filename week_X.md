@@ -115,5 +115,10 @@
 - Updated PHP web shell repo
 - Started working on LAMP to-do list app
 
+## January 12th, 2020
+
+- Finished to-do list app
+- Learned more about PHP
+
 
 
