@@ -120,5 +120,11 @@
 - Finished to-do list app
 - Learned more about PHP
 
+## January 14th, 2020
+
+- Made some final enhancements to the to-do list web app
+- Database class chapter 2
+
+
 
 
