@@ -123,8 +123,12 @@
 ## January 14th, 2020
 
 - Made some final enhancements to the to-do list web app
-- Database class chapter 2
 
+
+## January 15th, 2020
+
+- Learned how to make browser add-ons
+- Made a browser extension that works with Firefox and Chrome
 
 
 
