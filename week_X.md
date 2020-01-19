@@ -131,4 +131,14 @@
 - Made a browser extension that works with Firefox and Chrome
 
 
+## January 18th, 2020
+
+- Made an S3 bucket scraper in Python
+
+## January 19th, 2020
+
+- Homework and studying for NEIU
+
+
+
 
