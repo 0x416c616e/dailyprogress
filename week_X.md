@@ -139,6 +139,13 @@
 
 - Homework and studying for NEIU
 
+## January 24th, 2020
+
+- Did some coding exercises in PHP
+- Made a check writer exercise (turns numbers into written-out English words, like what you'd see on a check)
+- More homework and studying
+- Learned more about databases
+- Practiced some SQL
 
 
 
