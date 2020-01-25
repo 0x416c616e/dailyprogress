@@ -147,5 +147,11 @@
 - Learned more about databases
 - Practiced some SQL
 
+# January 25th, 2020
+
+- Wrote LinkedIn recommendation for someone
+- More NEIU CS homework and studying
+- Completed a Leetcode problem
+
 
 
