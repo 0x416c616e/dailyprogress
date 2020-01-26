@@ -147,13 +147,21 @@
 - Learned more about databases
 - Practiced some SQL
 
-# January 25th, 2020
+## January 25th, 2020
 
 - Wrote LinkedIn recommendation for someone
 - More NEIU CS homework and studying
 - Wrote a simple IO module for Python called ASIO (Alan's Simple IO)
 - Wrote a tool for cloning all repos from someone's GitHub profile
 - Completed a Leetcode problem
+
+## January 26th, 2020
+
+- Worked more on ASIO
+- Worked more on clone_app
+- Did another LeetCode problem
+- Homework and studying
+
 
 
 
