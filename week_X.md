@@ -151,7 +151,10 @@
 
 - Wrote LinkedIn recommendation for someone
 - More NEIU CS homework and studying
+- Wrote a simple IO module for Python called ASIO (Alan's Simple IO)
+- Wrote a tool for cloning all repos from someone's GitHub profile
 - Completed a Leetcode problem
+
 
 
 
