@@ -162,6 +162,12 @@
 - Did another LeetCode problem
 - Homework and studying
 
+## January 30th, 2020
+
+- More homework and studying
+- Made a repo for a new Twitter bot that I'll make: a Chicago facts bot
+- Made a program that can put a timestamp on top of an image
+- Worked on Twitter Weather Bot project, changing repo stuff, changing task scheduling to crontab, and adding timestamp to weather images
 
 
 
