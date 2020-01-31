@@ -169,6 +169,10 @@
 - Made a program that can put a timestamp on top of an image
 - Worked on Twitter Weather Bot project, changing repo stuff, changing task scheduling to crontab, and adding timestamp to weather images
 
+## January 31st, 2020
+
+- Overhauled the ChiWeather Twitter weather bot project. Put the SFTP info into a JSON config file, wrote code that will load the configs from the sftp.json file, added image.py to the bot to put text on top of the image before posting it, and changed the task scheduling system from inline Python time.sleep() stuff to using crontab in Linux, and updated instructions for how to schedule the task
+
 
 
 
