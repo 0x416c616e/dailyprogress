@@ -179,6 +179,11 @@
 - Made repo of rookits and other security tools
 - More homework and studying
 
+## February 3rd, 2020
+
+- Homework
+- Learned more about databases
+- Class schedule stuff
 
 
 
