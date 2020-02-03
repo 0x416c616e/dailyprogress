@@ -185,7 +185,7 @@
 - Learned more about databases
 - Class schedule stuff
 - Started working on a tool that can help you find rootkits in Linux
-
+- Made a browser extension that lets you roll dice, called Dice Roller
 
 
 
