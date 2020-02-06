@@ -187,5 +187,20 @@
 - Started working on a tool that can help you find rootkits in Linux
 - Made a browser extension that lets you roll dice, called Dice Roller
 
+## February 5th, 2020
+
+- LeetCode
+- Homework/studying
+- Coming up with more concrete ideas for a new security project
+
+## February 6th, 2020
+
+- Worked on new Abyss project, a cool security-related project
+- Re-did Abyss design doc
+- Fonts and graphic design stuff for video, repo, and new CLS site
+- Made VMs for the WP/LAMP stuff for the Abyss project
+- Started working on Abyss
+
+
 
 
