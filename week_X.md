@@ -201,6 +201,17 @@
 - Made VMs for the WP/LAMP stuff for the Abyss project
 - Started working on Abyss
 
+## February 7th, 2020
+
+- Updated Fortigate
+- Learned more about FortiOS
+- Learned some new Linux command line stuff
+- Made "stuff to look up" repo of things I eventually want to learn
+- Finished setting up Abyss VMs
+- Made static DHCP reservations for my ESXi VMs in FortiOS
+- Wrote setup instructions for how to make the VMs
+- Changed Abyss design doc a little again
+- Starting to make serious progress on the Abyss project
 
 
 
