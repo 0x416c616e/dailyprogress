@@ -213,5 +213,13 @@
 - Changed Abyss design doc a little again
 - Starting to make serious progress on the Abyss project
 
+# February 8th, 2020
+
+- Encountered a weird and inconsistent bug in the Abyss project -- super difficult!!! 
+- Took forever trying to debug it and eventually figured it out
+- Came up with an idea for a final project for the database class
+- Figured out plans for the summer and fall
+- Figured out where I want to move to in the summer
+
 
 
