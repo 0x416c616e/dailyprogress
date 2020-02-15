@@ -213,7 +213,7 @@
 - Changed Abyss design doc a little again
 - Starting to make serious progress on the Abyss project
 
-# February 8th, 2020
+## February 8th, 2020
 
 - Encountered a weird and inconsistent bug in the Abyss project -- super difficult!!! 
 - Took forever trying to debug it and eventually figured it out
@@ -221,5 +221,21 @@
 - Figured out plans for the summer and fall
 - Figured out where I want to move to in the summer
 
+## February 14th, 2020
 
+- Redoing my entire network
+- Backed up my data
+- Reinstalled the OSes on all my devices
+- Starting to work on my server rack again
+- Started using Acronis for disk imaging
+- Factory reset some stuff
+- Installed Fedora Linux on my old desktop to get experience with RH/rpm/dnf/yum/etc instead of just Debian-based distros
+- Set up a file backup server for someone
+- Installed FreeNAS on new server machine
+- Refresher on SMB, ZFS, etc.
+- Reinstalled DD-WRT on my router
+- Going to eventually re-set up my own file server (separate from this one, which is for someone else)
+- Going to finally set up Kubernetes and whatnot on my currently unused servers that I built for my server rack
+- Still doing homework and studying
+- Getting more into enterprise IT stuff for my home lab for usefulness and also education
 
