@@ -246,4 +246,8 @@
 - Made an Acronis bootable USB
 - Learned that I will need to help someone with password recovery for Windows, so looked into Lazesoft's password recovery tool
 - More plans for moving in the summer
-- 
+- Fixed fan server noise for 2 fans in server rack
+- Moved drives from one server to another, going to set it up as my own FreeNAS server (seperate from the other one I built, which is for someone else)
+- Fixed server labels
+- Figured out my plans for which servers will be used for Kubernetes
+- Decided to not keep the Ryzen build as a Proxmox server and instead it will become yet another Kubernetes node
