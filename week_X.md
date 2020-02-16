@@ -239,3 +239,11 @@
 - Still doing homework and studying
 - Getting more into enterprise IT stuff for my home lab for usefulness and also education
 
+## February 15th, 2020
+
+- Finished setting up FreeNAS server with a mirror ZFS storage pool, made user accounts on the system for use with SMB, made separate datasets for all three users, enabled SMB, made an SMB share for each user, changed permissions so each user can only access their own data and not other people's
+- Dell laptop factory reset
+- Made an Acronis bootable USB
+- Learned that I will need to help someone with password recovery for Windows, so looked into Lazesoft's password recovery tool
+- More plans for moving in the summer
+- 
