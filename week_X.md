@@ -251,3 +251,11 @@
 - Fixed server labels
 - Figured out my plans for which servers will be used for Kubernetes
 - Decided to not keep the Ryzen build as a Proxmox server and instead it will become yet another Kubernetes node
+
+## April 18th, 2020
+
+- Lots of stuff since last update
+- Learned more about databases
+- Took quiz about databases
+- Started database class final project
+
