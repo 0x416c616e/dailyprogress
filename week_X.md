@@ -259,3 +259,7 @@
 - Took quiz about databases
 - Started database class final project
 
+## April 19th, 2020
+
+- Worked more on design docs for final project (not coding yet, just designing)
+
