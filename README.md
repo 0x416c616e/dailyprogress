@@ -20,4 +20,11 @@ Also be sure to check out [my corresponding website](http://alans100daysofcode.c
 
 [Week 5](https://github.com/0x416c616e/dailyprogress/blob/master/week_5.md)
 
+[Week 6](https://github.com/0x416c616e/dailyprogress/blob/master/week_6.md)
+
+[Week 7](https://github.com/0x416c616e/dailyprogress/blob/master/week_7.md)
+
+[Week 8](https://github.com/0x416c616e/dailyprogress/blob/master/week_8.md)
+
+[Newer](https://github.com/0x416c616e/dailyprogress/blob/master/week_X.md)
 ---
