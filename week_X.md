@@ -266,5 +266,7 @@
 ## April 20th, 2020
 
 - Worked more on final project. Finished the database tables and dummy data. Now starting to work on the program itself, as well as the views.
+- Wrote about 1,000 lines of code for the final project so far
+
 
 
