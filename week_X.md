@@ -268,5 +268,9 @@
 - Worked more on final project. Finished the database tables and dummy data. Now starting to work on the program itself, as well as the views.
 - Wrote about 1,000 lines of code for the final project so far
 
+## April 21st, 2020
+
+- Lots of work on final project for database class
+- Now the final project has a login system, main menu, ability to make tickets, ability to view or search for tickets, and ability to view or search for standard procedures
 
 
