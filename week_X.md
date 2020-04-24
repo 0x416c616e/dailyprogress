@@ -273,4 +273,12 @@
 - Lots of work on final project for database class
 - Now the final project has a login system, main menu, ability to make tickets, ability to view or search for tickets, and ability to view or search for standard procedures
 
+## April 24th, 2020
+
+- Final project due tonight
+- More database stuff
+- Finished the non-admin account technician menu features
+- Only final thing left are the create/read/update/delete options in the admin menu
+- Final project is currently 2,300 lines of code
+
 
