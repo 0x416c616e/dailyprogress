@@ -281,4 +281,9 @@
 - Only final thing left are the create/read/update/delete options in the admin menu
 - Final project is currently 2,300 lines of code
 
+## April 29th, 2020
+
+- Updated Wordpress themes, plugins, Wordpress itself, and PHP versions on all my websites
+- Looked through WAF logs, awstats, Google Analytics, and Cloudflare's traffic page
+- Updated 'attacks against wordpress' repo
 
