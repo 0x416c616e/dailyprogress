@@ -291,7 +291,10 @@
 
 - Wrote and published an article about web security
 - Learned about making Wordpress plugins
+- Made my first Wordpress plugin
 - Signed up for summer computer science classes
+- Started learning about Android app development
+
 
 
 
