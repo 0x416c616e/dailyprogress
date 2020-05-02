@@ -287,3 +287,15 @@
 - Looked through WAF logs, awstats, Google Analytics, and Cloudflare's traffic page
 - Updated 'attacks against wordpress' repo
 
+## May 2nd, 2020
+
+- Wrote and published an article about web security
+- Learned about making Wordpress plugins
+- Signed up for summer computer science classes
+
+
+
+
+
+
+
