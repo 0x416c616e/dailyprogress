@@ -295,6 +295,16 @@
 - Signed up for summer computer science classes
 - Started learning about Android app development
 
+## May 4th, 2020
+
+- Installed Virtualbox and a Red Hat Enterprise Linux VM on my laptop
+- Installed Acronis etc.
+- Website maintenance
+- Learned about spam filters
+- Created some spam filters for SpamExperts
+- Learning about computer organization before my summer computer organization class starts
+- Learned a little about assembly
+- A little more of the code formatting stuff for freecodingtutorials.com
 
 
 
