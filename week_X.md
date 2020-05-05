@@ -295,7 +295,7 @@
 - Signed up for summer computer science classes
 - Started learning about Android app development
 
-## May 4th, 2020
+## May 3rd, 2020
 
 - Installed Virtualbox and a Red Hat Enterprise Linux VM on my laptop
 - Installed Acronis etc.
@@ -306,8 +306,16 @@
 - Learned a little about assembly
 - A little more of the code formatting stuff for freecodingtutorials.com
 
+## May 4th, 2020
 
-
+- Zoom meeting
+- Set up chicagolandsoftware.com -- just the basic GitHub Pages, DNS stuff, index.html, and SSL
+- Cleaned up/deleted old repos
+- Closed old repo issues that I've finished
+- Made new logo for Chicagoland Software website
+- Updated spam filter repo
+- Fixed saintlouissoftware.com repo
+- Made Red Hat Enterprise Linux VM
 
 
 
