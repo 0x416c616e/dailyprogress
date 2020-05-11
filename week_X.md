@@ -317,6 +317,18 @@
 - Fixed saintlouissoftware.com repo
 - Made Red Hat Enterprise Linux VM
 
+## May 11th, 2020
+
+- Laptop died
+- Reinstalled Windows 10 on desktop
+- Set up dev tools on desktop
+- Worked more on chicagolandsoftware.com website
+- Working on static site generator for CLS website
+	- Written in Java this time, not Python
+	- Separate project from my Python SSG
+- Setting up webcam and mic for Zoom meetings on desktop
+
+
 
 
 
