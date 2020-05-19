@@ -328,6 +328,18 @@
 	- Separate project from my Python SSG
 - Setting up webcam and mic for Zoom meetings on desktop
 
+## May 19th, 2020
+
+- Set up CentOS VM for new security dashboard project
+- Started working on a sub-feature of the security dashboard: systemDiff, a tool for finding changes made to processes and files on a Linux system
+- Brushed up on IT skills
+- Learned more about malware analysis
+- Learned more about Active Directory
+- Learned more about Citrix Hypervisor
+- Planning on using my security dashboard on a LAMP CentOS VPS on Vultr or something eventually
+	- Going to put my Chicagoland Software on there, instead of being hosted on GitHub Pages
+- Learned more about PHP security
+
 
 
 
