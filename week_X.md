@@ -340,7 +340,10 @@
 	- Going to put my Chicagoland Software on there, instead of being hosted on GitHub Pages
 - Learned more about PHP security
 
+## August 25th. 2020
 
+- Moved
+- Started fall computer science classes
 
 
 
