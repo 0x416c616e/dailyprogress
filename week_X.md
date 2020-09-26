@@ -350,4 +350,4 @@
 - Taking fall classes
 - Re-learning JavaFX/OpenJFX with some video tutorials and coding practice
 - Planning on making a new JavaFX project after finishing a tutorial series to re-learn JavaFX
-
+- Added server rack progress photos to portfolio
