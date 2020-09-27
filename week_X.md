@@ -351,3 +351,9 @@
 - Re-learning JavaFX/OpenJFX with some video tutorials and coding practice
 - Planning on making a new JavaFX project after finishing a tutorial series to re-learn JavaFX
 - Added server rack progress photos to portfolio
+
+## September 27th, 2020
+
+- More JavaFX tutorials
+- Learned how to make a JAR with a JavaFX project
+- See this tutorial (super important): [https://www.youtube.com/watch?v=HGHu-SzL-5E](https://www.youtube.com/watch?v=HGHu-SzL-5E)
