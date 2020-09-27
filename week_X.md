@@ -357,3 +357,4 @@
 - More JavaFX tutorials
 - Learned how to make a JAR with a JavaFX project
 - See this tutorial (super important): [https://www.youtube.com/watch?v=HGHu-SzL-5E](https://www.youtube.com/watch?v=HGHu-SzL-5E)
+- Made user-friendly JavaFX JAR template repo
